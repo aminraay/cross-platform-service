@@ -5,7 +5,7 @@ readme = "README.md"
 version = "0.1.0"
 authors = ["AminRaay"]
 edition = "2018"
-keywords = ["service", "windows service", "linux service"]
+keywords = ["service", "daemon"]
 
 [package.metadata.docs.rs]
 default-target = "x86_64-pc-windows-msvc"
