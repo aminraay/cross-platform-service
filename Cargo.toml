@@ -3,10 +3,10 @@ name = "cross-platform-service"
 description = "Provides facilities to create and manage cross platform service"
 readme = "README.md"
 version = "0.1.0"
-authors = ["AminRaay"]
+authors = ["AminRaay <aminraay.com>"]
 edition = "2018"
+license = "MIT"
 keywords = ["service", "daemon"]
-
 [package.metadata.docs.rs]
 default-target = "x86_64-pc-windows-msvc"
 targets = [
